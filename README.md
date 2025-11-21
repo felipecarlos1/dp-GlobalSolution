@@ -1,5 +1,9 @@
 # 📘 Global Solution – Dynamic Programming (FIAP 2025)
 
+### Felipe Carlos Abreu | RM559476
+### Gabriel dos Santos Teixeira RM97233
+### Gustavo Naoto Lida | RM560470
+
 ### **Tema: O Futuro do Trabalho – Requalificação Inteligente com Programação Dinâmica**
 
 Este projeto apresenta uma solução completa que utiliza **Programação Dinâmica (DP)**, **Merge Sort**, **função dentro de função**, **DataFrames**, **relatórios** e **arquitetura modular** para recomendar cursos ideais para candidatos que desejam se requalificar no mercado de trabalho — alinhado ao tema do Futuro do Trabalho.
